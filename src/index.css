@@ -15,18 +15,6 @@
     }
     .sidebar-icon {
         @apply flex h-12 w-12 justify-center items-center shadow-lg
-        bg-neutral-800 text-secondary 
-        hover:bg-secondary hover:text-white
-        rounded-3xl hover:rounded-2xl transition-all duration-200 ease-out cursor-pointer;
-    }
-    .sidebar-main-icon {
-        @apply flex h-12 w-12 justify-center items-center shadow-lg
-        bg-neutral-800 text-white 
-        hover:bg-primary
-        rounded-3xl hover:rounded-2xl transition-all duration-200 ease-out cursor-pointer;
-    }
-    .sidebar-img {
-        @apply flex h-12 w-12 justify-center items-center shadow-lg
         rounded-3xl hover:rounded-2xl transition-all duration-200 ease-out cursor-pointer;
     }
     .guildSeparator {
